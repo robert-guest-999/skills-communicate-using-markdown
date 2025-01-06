@@ -11,3 +11,7 @@ def func():
   a = 1
   b = 2
 ````
+
+- [x] go shopping
+- [ ] cook dinner
+- [ ] go for a run
